@@ -1,0 +1,18 @@
+# basics
+tqdm==4.65.0
+
+# computational bare essentials
+numpy==1.22.4
+scipy==1.11.1
+pandas==1.5.3
+pandas-datareader==0.10.0
+
+# sklearn for ml
+scikit-learn==1.2.2
+scikit-learn-intelex==2023.2.1
+
+#visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+yellowbrick==1.5
